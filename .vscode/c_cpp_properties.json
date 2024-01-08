@@ -11,7 +11,8 @@
                 "../../esp-open-rtos/lwip/lwip/src/include/**",
                 "../../esp-open-rtos/core/include/**",
                 "../../esp-open-rtos/FreeRTOS/Source/portable/esp8266/**",
-                "../../esp-open-rtos/FreeRTOS/Source/include/**"
+                "../../esp-open-rtos/FreeRTOS/Source/include/**",
+                "../../**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
