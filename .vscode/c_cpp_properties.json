@@ -4,13 +4,13 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "../../esp-open-sdk/lx106-hal/include/**",
+                "../../esp-open-sdk/lx106-hal/include",
                 "../../esp-open-rtos/include/**",
-                "../../esp-open-rtos/libc/xtensa-lx106-elf/include/**",
+                "../../esp-open-rtos/libc/xtensa-lx106-elf/include",
                 "../../esp-open-rtos/lwip/include/**",
                 "../../esp-open-rtos/lwip/lwip/src/include/**",
                 "../../esp-open-rtos/core/include/**",
-                "../../esp-open-rtos/FreeRTOS/Source/portable/esp8266/**",
+                "../../esp-open-rtos/FreeRTOS/Source/portable/esp8266",
                 "../../esp-open-rtos/FreeRTOS/Source/include/**",
                 "../../**"
             ],
